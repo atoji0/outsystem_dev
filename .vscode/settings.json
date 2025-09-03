@@ -1,0 +1,14 @@
+{
+    // メニューを埋め込めるようにする。
+    "markdown-preview-enhanced.enableScriptExecution": true,
+    // Tableでセル結合できるようにする。
+    "markdown-preview-enhanced.enableExtendedTableSyntax": true,
+    // 画像貼り付け時の保存先を指定する。
+    "markdown.copyFiles.destination": {
+        "*": "/wiki/image/${documentBaseName}/"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+        "editor.fontFamily": "BIZ UDゴシック"
+    }
+}
