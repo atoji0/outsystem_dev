@@ -1,0 +1,8 @@
+{
+    "markdown-preview-enhanced.enableExtendedTableSyntax": true,
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+        "editor.fontFamily": "BIZ UDゴシック",
+    },
+    "editor.formatOnSave": true
+}
